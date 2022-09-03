@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Group_19" data-name="Group 19" transform="translate(-15 -156)">
+    <g id="Ellipse_46" data-name="Ellipse 46" transform="translate(15 156)" fill="#446e61" stroke="#446e61" stroke-width="1">
+      <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+      <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+    </g>
+    <g id="Icon_ionic-md-information" data-name="Icon ionic-md-information" transform="translate(9.688 152.156)">
+      <path id="Path_747" data-name="Path 747" d="M16.313,16.523h2.582v7.369H16.313Z" transform="translate(0 -1.57)" fill="#fff"/>
+      <path id="Path_748" data-name="Path 748" d="M16.313,9.844h2.582v2.582H16.313Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

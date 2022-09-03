@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Group_19" data-name="Group 19" transform="translate(-15 -156)">
+    <g id="Ellipse_46" data-name="Ellipse 46" transform="translate(15 156)" fill="#446e61" stroke="#446e61" stroke-width="1">
+      <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+      <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+    </g>
+    <g id="Privacy_Policy" data-name="Privacy Policy" transform="translate(-71.7 151)">
+      <path id="Path_751" data-name="Path 751" d="M104.54,15.459h-1.091V13.513a3.869,3.869,0,0,0-7.708.019v1.927h-1.09a.947.947,0,0,0-.952.942v6.876a.948.948,0,0,0,.952.943h9.89a.947.947,0,0,0,.95-.943V16.4A.947.947,0,0,0,104.54,15.459Zm-4.409,4.559v1.5a.125.125,0,0,1-.125.123h-.818a.126.126,0,0,1-.126-.123v-1.5A1.168,1.168,0,0,1,99.6,17.8a1.18,1.18,0,0,1,1.185,1.172A1.167,1.167,0,0,1,100.131,20.017Zm1.84-4.537H97.221v-2.1a2.406,2.406,0,0,1,4.748,0v2.1Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
